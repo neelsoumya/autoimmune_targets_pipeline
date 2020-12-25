@@ -3,11 +3,14 @@
 A computational pipeline to predict targets and generate insights for autoimmune diseases.
 
 Usage:
-python3 open_targets_main.py
+
+	python3 open_targets_main.py
 
 Requirements:
+
 Install using
-pip install -r requirements.txt
+
+	pip install -r requirements.txt
 
 Additional code:
 
@@ -53,4 +56,5 @@ Additional code:
 
 * Repo owner or admin
 	* Soumya Banerjee
+	
 	* https://sites.google.com/site/neelsoumya/Home

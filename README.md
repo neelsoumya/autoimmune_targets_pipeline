@@ -39,22 +39,15 @@ Additional code:
 ### How do I get set up? ###
 
 * Summary of set up
+
 	* pip install -r requirements.txt
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
+
 	* Soumya Banerjee
 	
 	* https://sites.google.com/site/neelsoumya/Home

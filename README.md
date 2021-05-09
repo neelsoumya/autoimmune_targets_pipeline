@@ -8,7 +8,7 @@ Usage:
 
 Requirements:
 
-Install using
+Installation:
 
 	pip install -r requirements.txt
 
